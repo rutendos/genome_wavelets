@@ -11,3 +11,11 @@ __pycache__/
 
 # pyenv
 .python-version
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
